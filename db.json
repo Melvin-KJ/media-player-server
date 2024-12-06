@@ -1,0 +1,36 @@
+{
+  "uploadVideos": [
+    {
+      "id": "ad97",
+      "caption": "CSS Crash Course",
+      "imgUrl": "https://i.ytimg.com/vi/yfoY53QXEnI/maxresdefault.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/yfoY53QXEnI"
+    },
+    {
+      "id": "bf83",
+      "caption": "Leo Tailer",
+      "imgUrl": "https://i.ytimg.com/vi/Po3jStA673E/maxresdefault.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "cateogries": [
+    {
+      "id": "e875",
+      "categoryName": "Tutorial",
+      "allVideos": []
+    },
+    {
+      "id": "a333",
+      "categoryName": "Trailers",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "88e7",
+      "caption": "Leo Tailer",
+      "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/29/2024, 7:38:51 PM GMT+5:30"
+    }
+  ]
+}
